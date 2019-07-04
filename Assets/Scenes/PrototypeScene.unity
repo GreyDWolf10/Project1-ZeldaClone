@@ -188,7 +188,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1753983621
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -601,10 +601,11 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -3, y: 0.5}
-  - {x: -0.3032261, y: -1.6198003}
-  - {x: -0.080251694, y: 1.3429574}
-  - {x: -2.538259, y: 3.2930005}
+  - {x: -1.9973845, y: -1.8155649}
+  - {x: 2.0600815, y: -1.8107748}
+  - {x: 2.0204666, y: 2.2262144}
+  - {x: -2.0171895, y: 2.2192895}
+  - {x: -2.036951, y: -1.8155653}
 --- !u!1 &246310251
 GameObject:
   m_ObjectHideFlags: 0
@@ -992,9 +993,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1921796759
-  m_SortingLayer: 1
-  m_SortingOrder: 1
+  m_SortingLayerID: 265777361
+  m_SortingLayer: 2
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 8f0d55812ed2a7b47bce335d7059aa68, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
